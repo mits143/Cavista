@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CavistaPractical</string>
+    <string name="search">Search</string>
+    <string name="no_internet_connection">Check internet connection</string>
+</resources>
